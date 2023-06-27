@@ -2,7 +2,7 @@
 
 # Nice to see you.
 
-#### Welcome to my page. Where dreams come true.
+#### Welcome to my page, where dreams come true.
 
 
 
