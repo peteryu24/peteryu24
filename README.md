@@ -1,4 +1,4 @@
-# Hello World! It's Peter.
+# Hello World! I'm Peter.
 
 #### Welcome to my page, where dreams come true.
 
