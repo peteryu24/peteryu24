@@ -33,7 +33,7 @@ where dreams come true.**
 
 ### How to reach me 🙋
 
-**EMAIL**📬 [peteryu24@naver.com](mailto:peteryu24@naver.com)
+[**EMAIL**📬](mailto:peteryu24@naver.com)
   
 
 
