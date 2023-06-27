@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&descAlign=50&fontAlign=50&section=header&text=Peter Yu&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
-
-# Hello World. It's Peter here.
+# Hello World! It's Peter.
 
 #### Welcome to my page, where dreams come true.
 
