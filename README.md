@@ -29,7 +29,7 @@ where dreams come true.**
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=peteryu24)](https://solved.ac/peteryu24)
 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
