@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-        run: |
+        run: 
           git config user.name peteryu24
           git config user.email peteryu24@naver.com
           git add -A .
