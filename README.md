@@ -36,8 +36,8 @@ where dreams come true.**
 ### How to reach me 🙋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peteryu24@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pace.non.trovo/)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<br>
+![](./profile-3d-contrib/profile-green.svg)
 
   
 
