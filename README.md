@@ -2,8 +2,7 @@
     
 **Welcome to my page,         
 where dreams come true.**
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peteryu24)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### I’m currently learning 💩
 <!--![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)-->
